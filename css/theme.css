@@ -20,7 +20,7 @@ h1,h2,h3,h4,h5,h6 {
 	margin:0px auto;
 }
 a,a:hover {
-	color:#cc580c;
+	color:#0c36cc;
 	text-decoration: none;
 }
 img {max-width: 100%;}
@@ -44,8 +44,8 @@ Image credits: unsplash.com
 }
 .fade-carousel .carousel-indicators > li {
     margin: 0 2px;
-    background-color: #f39c12;
-    border-color: #f39c12;
+    background-color: #001d87;
+    border-color: #001d87;
     opacity: .7;
 }
 .fade-carousel .carousel-indicators > li.active {
@@ -185,7 +185,7 @@ Image credits: unsplash.com
 /* Changes the color of the indicators */
 #quote-carousel .carousel-indicators li 
 {
-  background: #c0c0c0;
+  background: #171717;
 }
 #quote-carousel .carousel-indicators .active 
 {
@@ -505,7 +505,7 @@ img#site-title {
 	margin:0 0 20px 0;
 	font-size:19px;
 	padding-bottom:10px;
-	color:#cc580c;
+	color:#0c49cc;
 	border-bottom: 4px double #eee;
 }
 /*---------------------------------------------------- 	Gallery Events------------------------------------------------------*/
@@ -833,7 +833,7 @@ textarea.contact {
 	border-radius:50%;
 }
 .gototop i {
-	color:#cc580c;
+	color:#0c5ccc;
 	line-height:70px;
 }
 .footer a,.footer a:hover {
@@ -854,11 +854,11 @@ blockquote:before {
 	position:absolute;
 	left:10px;
 	top:-30px;
-	color:#cc580c;
+	color:#0c5ccc;
 	font-family:Georgia;
 }
 blockquote cite {
-	color:#cc580c;
+	color:#0c5ccc;
 	font-size:14px;
 	display:block;
 	margin-top:5px;
